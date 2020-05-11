@@ -1,0 +1,14 @@
+.pageTodoList__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 50%;
+}
+
+.pageTodoList__container--button {
+  margin-top: 20px !important;
+}
+
+hr {
+  width: 100%;
+}
